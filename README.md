@@ -1,6 +1,6 @@
 # Files for my website
 
-This repository contains some files for my website, because I made the mistake of using Google Sites when I created it. Maybe one day I'll recode my site by hand (or with an AI hehe) and host it on GitHub Pages...
+This repository contains some files for my (website)[oussamazekri.fr], because I made the mistake of using Google Sites when I created it. Maybe one day I'll recode my site by hand (or with an AI hehe) and host it on GitHub Pages...
 
 <p align="center">
 <img src="https://github.com/ozekri/website_files/blob/main/images/website_overview.png" width=100% height=100% alt>
